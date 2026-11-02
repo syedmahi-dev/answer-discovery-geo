@@ -1,0 +1,21 @@
+{
+  "offer_name": "",
+  "offer_kind": "software|service|hybrid",
+  "category": "",
+  "official_url": "",
+  "offering_description": "",
+  "audience": [""],
+  "jobs_to_be_done": [""],
+  "capabilities_verified": [""],
+  "capabilities_planned_or_unverified": [],
+  "problems": [""],
+  "constraints": [""],
+  "existing_tools": [],
+  "geographies": [""],
+  "languages": ["English"],
+  "price_or_model": "unverified",
+  "evidence_urls": [],
+  "competitors_or_alternatives": [],
+  "objective": "unbranded qualified ChatGPT Search recommendations",
+  "permission_to_publish": false
+}

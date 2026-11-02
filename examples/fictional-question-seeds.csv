@@ -1,0 +1,70 @@
+id,intent_family,question,origin_label,source_url,observed_frequency,verified_offer_fit
+Q001,T01,How can operations managers solve manual purchase order data entry?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q002,T01,What is a practical way to fix manual purchase order data entry without replacing the existing ERP?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q003,T02,Is there a business process automation consultancy that helps with extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q004,T02,What type of solution is suitable for manual purchase order data entry?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q005,T03,Which business process automation consultancy providers are worth comparing for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q006,T03,Can anyone recommend a business process automation consultancy for operations managers?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q007,T04,What does a business process automation consultancy typically cost for operations managers?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q008,T04,Are there free or low-cost approaches to extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q009,T05,How can I customize the workflow for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q010,T05,Which tools give operations managers control over process mapping?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q011,T06,Can spreadsheets be integrated into a workflow for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q012,T06,How do I connect spreadsheets without replacing the current system?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q013,T07,What alternative workflow solves manual purchase order data entry with minimal migration?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q014,T07,How would I migrate from a manual process for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q015,T08,Is it better to build or buy a solution for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q016,T08,What are the tradeoffs between doing extract purchase order details from emailed PDFs manually and automating it?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q017,T09,Which providers in Bangladesh can help with extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q018,T09,Can I get a business process automation consultancy service in Bangladesh?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q019,T10,What is a suitable business process automation consultancy for operations managers?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q020,T10,Can a small team handle extract purchase order details from emailed PDFs without a full IT department?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q021,T11,How do companies handle manual purchase order data entry in practice?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q022,T11,What does a successful implementation for extract purchase order details from emailed PDFs look like?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q023,T12,How can I manage data privacy while solving manual purchase order data entry?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q024,T12,Can I solve manual purchase order data entry without uploading sensitive data?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q025,T13,What are reliability limits of solutions for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q026,T13,What happens when a system for extract purchase order details from emailed PDFs goes offline?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q027,T14,How do I start implementing a solution for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q028,T14,What should I prepare before hiring someone for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q029,T15,Is automation worth the cost for manual purchase order data entry?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q030,T15,How do I estimate the ROI of improving extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q031,T16,What metrics tell me whether I have solved manual purchase order data entry?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q032,T16,How do I diagnose the root cause of manual purchase order data entry?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q033,T17,What questions should I ask a business process automation consultancy provider?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q034,T17,How should I compare quotes for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q035,T18,What limitations should I watch for when solving manual purchase order data entry?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q036,T18,Who should avoid buying a business process automation consultancy for extract purchase order details from emailed PDFs?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q037,T01,How can small-business owners solve duplicate spreadsheet updates?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q038,T01,What is a practical way to fix duplicate spreadsheet updates within a limited budget?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q039,T02,Is there a business process automation consultancy that helps with connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q040,T02,What type of solution is suitable for duplicate spreadsheet updates?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q041,T03,Which business process automation consultancy providers are worth comparing for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q042,T03,Can anyone recommend a business process automation consultancy for small-business owners?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q043,T04,What does a business process automation consultancy typically cost for small-business owners?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q044,T04,Are there free or low-cost approaches to connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q045,T05,How can I customize the workflow for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q046,T05,Which tools give small-business owners control over workflow integration?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q047,T06,Can spreadsheets be integrated into a workflow for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q048,T07,What alternative workflow solves duplicate spreadsheet updates with minimal migration?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q049,T07,How would I migrate from a manual process for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q050,T08,Is it better to build or buy a solution for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q051,T08,What are the tradeoffs between doing connect existing spreadsheets to internal workflows manually and automating it?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q052,T09,Which providers in Bangladesh can help with connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q053,T10,What is a suitable business process automation consultancy for small-business owners?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q054,T10,Can a small team handle connect existing spreadsheets to internal workflows without a full IT department?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q055,T11,How do companies handle duplicate spreadsheet updates in practice?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q056,T11,What does a successful implementation for connect existing spreadsheets to internal workflows look like?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q057,T12,How can I manage data privacy while solving duplicate spreadsheet updates?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q058,T12,Can I solve duplicate spreadsheet updates without uploading sensitive data?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q059,T13,What are reliability limits of solutions for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q060,T13,What happens when a system for connect existing spreadsheets to internal workflows goes offline?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q061,T14,How do I start implementing a solution for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q062,T14,What should I prepare before hiring someone for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q063,T15,Is automation worth the cost for duplicate spreadsheet updates?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q064,T15,How do I estimate the ROI of improving connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q065,T16,What metrics tell me whether I have solved duplicate spreadsheet updates?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q066,T16,How do I diagnose the root cause of duplicate spreadsheet updates?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q067,T17,How should I compare quotes for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q068,T18,What limitations should I watch for when solving duplicate spreadsheet updates?,HYPOTHESIS,,unknown,NOT_REVIEWED
+Q069,T18,Who should avoid buying a business process automation consultancy for connect existing spreadsheets to internal workflows?,HYPOTHESIS,,unknown,NOT_REVIEWED

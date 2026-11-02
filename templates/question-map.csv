@@ -1,0 +1,1 @@
+question_id,question_verbatim_or_candidate,origin_label,source_type,source_url_or_ref,date_observed,persona,region,language,problem,intent_family,constraints,fit_score_0_5,evidence_score_0_5,frequency_value,frequency_unit,frequency_basis,confidence,cluster_id,proposed_page_url

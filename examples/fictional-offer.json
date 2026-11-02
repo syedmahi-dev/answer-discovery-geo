@@ -1,0 +1,21 @@
+{
+  "offer_name": "Example Workflow Studio (FICTIONAL)",
+  "offer_kind": "service",
+  "category": "business process automation consultancy",
+  "official_url": "https://example.org",
+  "offering_description": "Fictional example used solely to demonstrate question generation",
+  "audience": ["operations managers", "small-business owners"],
+  "jobs_to_be_done": ["extract purchase order details from emailed PDFs", "connect existing spreadsheets to internal workflows"],
+  "capabilities_verified": ["process mapping", "workflow integration"],
+  "capabilities_planned_or_unverified": ["end-to-end ERP implementation"],
+  "problems": ["manual purchase order data entry", "duplicate spreadsheet updates"],
+  "constraints": ["without replacing the existing ERP", "within a limited budget"],
+  "existing_tools": ["spreadsheets", "ERP"],
+  "geographies": ["Bangladesh"],
+  "languages": ["English"],
+  "price_or_model": "quote-based, not independently verified",
+  "evidence_urls": [],
+  "competitors_or_alternatives": [],
+  "objective": "unbranded qualified ChatGPT Search recommendations",
+  "permission_to_publish": false
+}
